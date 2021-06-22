@@ -2,9 +2,9 @@
 
 Fireact is a payment-ready SaaS solution framework that is built on React, Firebase and Stripe.
 
-[Get Started](https://chaoming.github.io/fireact/get-started.html) // The link does not work
+[Get Started](https://chaoming.github.io/fireact/docs/installation/)
 
-[Download](https://github.com/chaoming/fireact/archive/master.zip)
+[Download](https://github.com/StajYerim/fireact/archive/refs/heads/master.zip)
 
 ## Why Fireact
 
@@ -32,10 +32,10 @@ If you select `California, United States` as your billing country and state, 7.2
 
 To understand how to install Fireact or how to develop your SaaS functionalities based on Fireact after installation, please read the documentation.
 
-[Read Documentation](https://chaoming.github.io/fireact/get-started.html)
+[Read Documentation](https://chaoming.github.io/fireact/docs/installation/)
 
 ## Contribution
 
-If you like this project, please watch or star it here: [Fireact Github Repo](https://github.com/chaoming/fireact)
+If you like this project, please watch or star it here: [Fireact Github Repo](https://github.com/StajYerim/fireact)
 
 If you would like to improve this project, please consider to be a contributor.
